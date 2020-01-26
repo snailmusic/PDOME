@@ -9,7 +9,10 @@ Pull a request with your module, don't forget to provide info!
 For credit, you can just put a comment somewhere in your patch
 
 ## How do I use it?
-Open the ___MAIN.pd file in [purr data](https://github.com/agraef/purr-data/releases) and type the names of modules from here! 
+Open the ___MAIN.pd file in [purr data](https://github.com/agraef/purr-data/releases) and type the names of modules from [here!](https://docs.google.com/spreadsheets/d/1W3OMbGNt6REjvP3rH48MQznLSRbST7z1T2rHSlaP9qo/edit?usp=sharing) 
+
+## Anywhere I can message you?
+Great question, join the discord server!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMwNzcxNjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNjc4NDI0NjhdfQ==
 -->
