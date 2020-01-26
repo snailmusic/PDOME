@@ -1,0 +1,14 @@
+#N canvas 719 355 450 300 10;
+#X obj 42 64 inlet;
+#X obj 85 63 inlet;
+#X obj 85 104 togsel;
+#X obj 71 146 holyspigot;
+#X connect 0 0 3 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 1;
+#X connect 2 1 3 2;
+#X connect 2 2 3 3;
+#X connect 2 3 3 4;
+#X connect 2 4 3 5;
+#X connect 2 5 3 6;
+#X connect 2 6 3 7;
