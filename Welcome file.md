@@ -12,7 +12,7 @@ For credit, you can just put a comment somewhere in your patch
 Open the ___MAIN.pd file in [purr data](https://github.com/agraef/purr-data/releases) and type the names of modules from [here!](https://docs.google.com/spreadsheets/d/1W3OMbGNt6REjvP3rH48MQznLSRbST7z1T2rHSlaP9qo/edit?usp=sharing) 
 
 ## Anywhere I can message you?
-Great question, join the discord server!
+Great question, join the [discord server!](https://discord.gg/XvQnmTc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc4NDI0NjhdfQ==
+eyJoaXN0b3J5IjpbLTU1NjgzMTgxNF19
 -->
