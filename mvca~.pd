@@ -1,0 +1,17 @@
+#N canvas 1337 350 450 300 10;
+#X obj 117 134 cnv 15 8 8 empty empty MVCA~ 13 5 0 14 -262144 -66577
+0;
+#X obj 252 95 inlet~;
+#X obj 253 160 outlet~;
+#X obj 277 127 *~;
+#X obj 117 121 cnv 15 8 8 empty empty in 0 0 0 10 -262144 -66577 0
+;
+#X obj 158 121 cnv 15 8 8 empty empty cv 4 0 0 10 -262144 -66577 0
+;
+#X obj 115 152 cnv 15 8 8 empty empty out 0 7 0 10 -262144 -66577 0
+;
+#X obj 315 95 inlet~;
+#X connect 1 0 3 0;
+#X connect 3 0 2 0;
+#X connect 7 0 3 1;
+#X coords 0 -1 1 1 85 60 2 103 113;

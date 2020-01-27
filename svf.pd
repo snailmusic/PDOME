@@ -1,0 +1,32 @@
+#N canvas 719 355 450 390 10;
+#X obj 148 109 moonlib/mknob 25 200 0 1 0 0 empty empty res -2 32 0
+10 -262144 -1 -1 0 1;
+#X obj 179 109 hsl 172 26 100 10000 1 0 empty empty freq 1 32 0 10
+-262144 -1 -1 0 1;
+#X obj 102 102 cnv 15 8 8 empty empty in 15 5 0 14 -262144 -66577 0
+;
+#X obj 105 154 cnv 15 8 8 empty empty lp 10 5 0 14 -262144 -66577 0
+;
+#X obj 312 156 cnv 15 8 8 empty empty notch 10 5 0 14 -262144 -66577
+0;
+#X obj 251 156 cnv 15 8 8 empty empty bp 10 5 0 14 -262144 -66577 0
+;
+#X obj 182 155 cnv 15 8 8 empty empty hp 10 5 0 14 -262144 -66577 0
+;
+#X text 113 19 dlol;
+#X obj 139 191 inlet;
+#X obj 138 240 svf~;
+#X obj 61 294 outlet~;
+#X obj 97 206 inlet~;
+#X obj 131 297 outlet~;
+#X obj 194 298 outlet~;
+#X obj 256 296 outlet~;
+#X connect 0 0 9 2;
+#X connect 1 0 9 1;
+#X connect 8 0 9 1;
+#X connect 9 0 10 0;
+#X connect 9 1 12 0;
+#X connect 9 2 13 0;
+#X connect 9 3 14 0;
+#X connect 11 0 9 0;
+#X coords 0 -1 1 1 269 74 2 100 100;
