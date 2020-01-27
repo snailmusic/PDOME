@@ -7,6 +7,7 @@ This is a little passion project of mine because I love automatism, but it has n
 ## How do I submit a module?
 Pull a request with your module, don't forget to provide info!
 For credit, you can just put a comment somewhere in your patch
+Hopefully it could be transfered to patchstorage :o
 
 ## How do I use it?
 Open the ___MAIN.pd file in [purr data](https://github.com/agraef/purr-data/releases) and type the names of modules from [here!](https://docs.google.com/spreadsheets/d/1W3OMbGNt6REjvP3rH48MQznLSRbST7z1T2rHSlaP9qo/edit?usp=sharing) 
